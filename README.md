@@ -1,2 +1,1 @@
-# law-chat-assistant
-A chat assistance for any legal queries
+# Gen-AI-With-Deep-Seek-R1
